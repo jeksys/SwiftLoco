@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q1w-me-hwr"; */
+"Q1w-me-hwr.text" = "Label";
+
+/* Class = "UISegmentedControl"; f7R-ta-36g.segmentTitles[0] = "First"; ObjectID = "f7R-ta-36g"; */
+"f7R-ta-36g.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; f7R-ta-36g.segmentTitles[1] = "Second"; ObjectID = "f7R-ta-36g"; */
+"f7R-ta-36g.segmentTitles[1]" = "Second";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rEC-rd-23o"; */
+"rEC-rd-23o.normalTitle" = "Button";

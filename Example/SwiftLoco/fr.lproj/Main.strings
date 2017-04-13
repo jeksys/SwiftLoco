@@ -1,0 +1,18 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "C9z-aD-4h0"; */
+"C9z-aD-4h0.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q1w-me-hwr"; */
+"Q1w-me-hwr.text" = "Label";
+
+/* Class = "UISegmentedControl"; f7R-ta-36g.segmentTitles[0] = "First"; ObjectID = "f7R-ta-36g"; */
+"f7R-ta-36g.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; f7R-ta-36g.segmentTitles[1] = "Second"; ObjectID = "f7R-ta-36g"; */
+"f7R-ta-36g.segmentTitles[1]" = "Second";
+
+/* Class = "UIButton"; normalTitle = "Localize"; ObjectID = "gj1-F0-cXU"; */
+"gj1-F0-cXU.normalTitle" = "Localize";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rEC-rd-23o"; */
+"rEC-rd-23o.normalTitle" = "Button";
