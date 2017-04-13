@@ -5,3 +5,7 @@
   Created by Eugene Yagrushkin on 2017-04-13.
   Copyright © 2017 LocoEye. All rights reserved.
 */
+
+"Label" = "Label";
+"Button" = "Button";
+"Text" = "Text";
